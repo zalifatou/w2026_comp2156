@@ -4,3 +4,6 @@ HEAD
 #### COMP2156 – Developer Operations | 101562645 zalifatou ouedraogo 
 
  ddfa07309533483ee7dd40222c56f6ac947f47a5
+# GitHub Action Status Badge
+[![CI](https://github.com/zalifatou/comp2156/actions/workflows/ci.yml/badge.svg)](https://github.com//zalifatou/comp2156/actions/workflows/ci.yml)
+
