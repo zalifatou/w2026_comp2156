@@ -8,7 +8,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/zalifatououedraogo/w2026_comp2156/issues"
   },
-  
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -52,7 +52,5 @@
     "gh-pages": "^6.3.0"
   },
   "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-
-
+  "deploy": "gh-pages -d build"
 }
