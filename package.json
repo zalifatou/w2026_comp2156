@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "HEAD # w2026_comp2156 ======= #### COMP2156 – Developer Operations | 101562645 zalifatou ouedraogo",
   "main": "index.js",
-  "homepage": "https://zalifatou.github.io/comp2156/",
+  "homepage": "https://zalifatou.github.io/w2026_comp2156/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
